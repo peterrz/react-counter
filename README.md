@@ -13,6 +13,6 @@ A simple, type-safe React counter component that:
 npm install
 npm start        # View in browser
 npm test         # Run unit tests
----
+```
 
 Built with Create React App + TypeScript
